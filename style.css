@@ -1,10 +1,10 @@
 *{
     margin: 0;
     padding: 0;
+    background-colour: beige;
 }
 body{
     font-family: 'poppins',sans-serif;
-    background-colour: black;
 }
 .navbar{
     background-color: #FD6569;
