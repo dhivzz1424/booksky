@@ -5,14 +5,20 @@
 body{
     font-family: 'poppins',sans-serif;
 }
+body{
+    font-family: 'poppins',sans-serif;
+    background-color: #f5e9d3;
+}
 
 .navbar{
     background-color: #FD6569;
     padding: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
-.container{
+.container {
     padding: 10px;
+    background-color: #f5e9d3;
+    min-height: 100vh;
 }
 
 .book-container{
