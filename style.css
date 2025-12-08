@@ -4,7 +4,9 @@
 }
 body{
     font-family: 'poppins',sans-serif;
-    background-color: #f5e9d3;
+}
+body {
+  background-color: red !important;
 }
 }
 .navbar{
