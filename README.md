@@ -17,5 +17,3 @@ BookSky is a lightweight HTML/CSS/JavaScript project showcasing a portfolio of b
 - Practicing frontend development skills
 
 ---
-
-## 📦 Project Structure
